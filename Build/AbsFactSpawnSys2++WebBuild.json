@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "GS_M02_DV02_SpawnSystem++",
+"productVersion": "0.1",
+"dataUrl": "AbsFactSpawnSys2++WebBuild.data.unityweb",
+"wasmCodeUrl": "AbsFactSpawnSys2++WebBuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "AbsFactSpawnSys2++WebBuild.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
